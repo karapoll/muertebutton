@@ -1,4 +1,4 @@
 muertebutton
 ============
 
-javascript animation
+basic javascript animation
